@@ -1,7 +1,8 @@
-## Hi there 👋
+## Come In To My GitHub Page
 
-<!--
-**JohnW03/JohnW03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hero](https://media.giphy.com/media/4OHTsroMWJqg/giphy.gif?cid=ecf05e47o9dq178ixqxmqznyqlzm9kuwsqdviichjdueh3jd&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+
+**My Name Is John White/J3. I'm a student in 2025 CodeCrew Cohort. I am a computer ethu**
 
 Here are some ideas to get you started:
 
